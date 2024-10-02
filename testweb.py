@@ -81,9 +81,9 @@ st.title("Gallery")
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.image("images/g1.jpg")
-    st.image("images/g2.jpg")
-    st.image("images/g3.jpg")
+    st.image("images/Diy mole repeller1.jpg")
+    st.image("images/Mini Arcades.jpg")
+    st.image("images/diy marlboro maze.jpg")
 
 with col2:
     st.image("images/g4.jpg")
